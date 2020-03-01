@@ -1,5 +1,7 @@
 # NodeJs-WeatherApp
 
+![weatherforec](https://user-images.githubusercontent.com/49508237/75627806-93084b00-5bf9-11ea-8c6b-a864156d111c.jpg)
+
 ## Steps to follow
 
 - Use [Weather API ](https://openweathermap.org/) Documentations .
